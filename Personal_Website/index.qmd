@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+Hi! I am Harry.
+I am a researcher working on Metal Additive Manufacturing, paticularly using _in situ_ synchrotron techniques to understand the fundamental driving physics behind soldification processes.
+
+I have conducted synchrotron experiments at [Diamond Light Source](https://www.diamond.ac.uk/Home.html) in the UK, the [European Synchrotron Radiation Facility](https://www.esrf.fr/) in France, and at the [High Energy Photon Source](https://english.ihep.cas.cn/heps/) in China.
+
+This website cont
+
+## Research Interests
+* Additive Manufacturing (AM) & other rapid non-equilbrium soldification processes
+* Alloy design & microstructural control
+* In situ synchrotron experiments
+* Combined in situ, ex situ, & in silico studies
+* Systems of science & metascience

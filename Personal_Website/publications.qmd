@@ -1,0 +1,42 @@
+---
+title: "Publications"
+---
+This is a list of my academic publications. It just pulls from my ORCID, and as such does not reflect any preprints, and may be behind. You can also find my publications on my google scholar [profile](https://scholar.google.com/citations?hl=en&user=AEkfk_QAAAAJ&view_op=list_works&sortby=pubdate).
+
+## Publications
+```{python}
+#| echo: false
+import requests
+from IPython.display import Markdown
+
+orcid_id = "0000-0002-0509-2755"
+
+url = f"https://pub.orcid.org/v3.0/{orcid_id}/works"
+headers = {"Accept": "application/json"}
+
+response = requests.get(url, headers=headers)
+
+works = response.json()["group"]
+works = sorted(works, key=lambda w: w["work-summary"][0]["publication-date"]["year"]["value"] if w["work-summary"][0]["publication-date"] else "0", reverse=True)
+
+
+lines = []
+for work in works:
+    summary = work["work-summary"][0]
+    title = summary["title"]["title"]["value"]
+    year = summary["publication-date"]["year"]["value"] if summary["publication-date"] else "n.d."
+    journal = summary["journal-title"]["value"] if summary["journal-title"] else ""
+
+    doi = ""
+    for eid in summary.get("external-ids", {}).get("external-id", []):
+        if eid["external-id-type"] == "doi":
+            doi = eid["external-id-value"]
+            break
+
+    if doi:
+        lines.append(f"**{title}** ({year}). *{journal}*. <https://doi.org/{doi}>")
+    else:
+        lines.append(f"**{title}** ({year}). *{journal}*")
+
+Markdown("\n\n".join(lines))
+```
