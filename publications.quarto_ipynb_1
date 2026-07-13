@@ -8,7 +8,7 @@
         "title: \"Publications\"\n",
         "---"
       ],
-      "id": "e51e7f72"
+      "id": "11a68875"
     },
     {
       "cell_type": "markdown",
@@ -18,7 +18,7 @@
         "\n",
         "## Publications"
       ],
-      "id": "4854d453"
+      "id": "ecd5a534"
     },
     {
       "cell_type": "code",
@@ -59,7 +59,7 @@
         "\n",
         "Markdown(\"\\n\\n\".join(lines))"
       ],
-      "id": "261813d7",
+      "id": "88100952",
       "execution_count": null,
       "outputs": []
     }
