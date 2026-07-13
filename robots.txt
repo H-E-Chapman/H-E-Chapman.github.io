@@ -1,1 +1,1 @@
-Sitemap: https://H-E-Chapman.github.io/Personal-Website/sitemap.xml
+Sitemap: https://H-E-Chapman.github.io/sitemap.xml
