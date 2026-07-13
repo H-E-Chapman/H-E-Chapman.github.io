@@ -4,8 +4,9 @@ title: "Experience"
 
 ---
 
-<details>
-<summary>**2022 — present** · PhD Mechanical Engineering · University College London</summary>
+
+## PhD Mechanical Engineering
+__2022 — present_**_ · **University College London**
 
 Investigating ultrasound-assisted additive manufacturing (AM) utilising in situ synchrotron radiography at ESRF and Diamond Light Source. Supervised by Peter Lee, Alex Leung, and Andrew Kao and co-sponsored by Rolls-Royce plc. and the Engineering and Physical Sciences Research Council (EPSRC).
 
@@ -37,12 +38,11 @@ Policy advisor focusing on the UK's scaleup problems for net zero technologies, 
 - Contributed to assessment on technological development in the UK across different sectors
 </details>
 </div>
-</details>
 
 ---
 
-<details>
-<summary>**2018 — 2022** · MEng Materials Science · University of Oxford</summary>
+## MEng Materials Science
+_2018 — 2022_ · **University of Oxford**
 
 Integrated MEng in Materials Science, with a focus on metallurgy. Supervised by David Armstrong and Peter Nellist.
 
@@ -62,4 +62,3 @@ Computational modelling of interstitial defects in iron for radiation damage stu
 - Comparision of interatomic potentials for iron and their effect on defect formation energies
 </details>
 </div>
-</details>
