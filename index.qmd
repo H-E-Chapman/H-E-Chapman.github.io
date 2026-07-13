@@ -7,7 +7,7 @@ I am a researcher working on Metal Additive Manufacturing, paticularly using _in
 
 I am based at the [Research Complex at Harwell](https://www.rc-harwell.ac.uk/) and have conducted synchrotron experiments at [Diamond Light Source](https://www.diamond.ac.uk/Home.html) in the UK, the [European Synchrotron Radiation Facility](https://www.esrf.fr/) in France, and at the [High Energy Photon Source](https://english.ihep.cas.cn/heps/) in China.
 
-This website contains information about my experience, projects I am/was involved in, and publications I have co-authored. I enjoy discussing my research and science generally, so if you are a student looking to get involved in research, a researcher looking to collaborate or understand work I have done, or if you are an industrial engineer looking to apply my research, please feel free to reach out to me via [email](mailto:harry.chapman.22@ucl.ac.uk).
+This website contains information about my experience, projects I am/was involved in, and publications I have co-authored. I enjoy discussing my research and science generally, so if you are a student looking to get involved in research, a researcher looking to collaborate or understand work I have done, or an industrial engineer looking to apply my research, please feel free to reach out to me via [email](mailto:harry.chapman.22@ucl.ac.uk).
 
 ## Research Interests
 * Additive Manufacturing (AM) & other rapid non-equilbrium soldification processes
