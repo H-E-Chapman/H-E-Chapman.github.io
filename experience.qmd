@@ -6,7 +6,7 @@ title: "Experience"
 
 
 ## PhD Mechanical Engineering
-__2022 — present_**_ · **University College London**
+_2022 — present_ · **University College London**
 
 Investigating ultrasound-assisted additive manufacturing (AM) utilising in situ synchrotron radiography at ESRF and Diamond Light Source. Supervised by Peter Lee, Alex Leung, and Andrew Kao and co-sponsored by Rolls-Royce plc. and the Engineering and Physical Sciences Research Council (EPSRC).
 
