@@ -5,9 +5,9 @@ website:
   title: "Harry Chapman"
   navbar:
     left:
+      - experience.qmd
       - projects.qmd
       - publications.qmd
-      - news.qmd
 
 format:
   html:

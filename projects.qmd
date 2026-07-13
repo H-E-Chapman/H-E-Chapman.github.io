@@ -7,9 +7,11 @@ title: "Projects"
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100}
 ::: {.card-body}
-### Project One
+### Ultrasound-assisted Additive Manufacturing
 ::: {.card-text}
-Short description of the project goes here. Keep it to two or three sentences.
+_2022-current_ - _Researcher_
+
+Investigating the driving mechanisms of applied ultrasound to AM.
 :::
 [Read more →](projects/project-01/index.qmd){.btn .btn-outline-dark .btn-sm .mt-auto}
 :::
@@ -19,9 +21,11 @@ Short description of the project goes here. Keep it to two or three sentences.
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100}
 ::: {.card-body}
-### Project Two
+### Magnetic field assisted Additive Manufacturing
 ::: {.card-text}
-Short description of the project goes here. Keep it to two or three sentences.
+_2022-current_ - _Researcher_
+
+Investigating the driving mechanisms of applied magnetic fields to AM.
 :::
 [Read more →](projects/project-02/index.qmd){.btn .btn-outline-dark .btn-sm .mt-auto}
 :::
@@ -31,9 +35,11 @@ Short description of the project goes here. Keep it to two or three sentences.
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100}
 ::: {.card-body}
-### Project Three
+### Student Training and Experience in Proposal Skills (STEPS)
 ::: {.card-text}
-Short description of the project goes here. Keep it to two or three sentences.
+_2024-2026_ - _Founder and Coordinator_
+
+A UCL research culture seed fund funded peer development programme.
 :::
 [Read more →](projects/project-03/index.qmd){.btn .btn-outline-dark .btn-sm .mt-auto}
 :::

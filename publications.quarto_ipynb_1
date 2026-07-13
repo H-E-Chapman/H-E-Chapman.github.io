@@ -1,0 +1,77 @@
+{
+  "cells": [
+    {
+      "cell_type": "raw",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Publications\"\n",
+        "---"
+      ],
+      "id": "f143112d"
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "This is a list of my academic publications. It just pulls from my ORCID, and as such does not reflect any preprints, and may be behind. You can also find my publications on my google scholar [profile](https://scholar.google.com/citations?hl=en&user=AEkfk_QAAAAJ&view_op=list_works&sortby=pubdate).\n",
+        "\n",
+        "## Publications"
+      ],
+      "id": "5518c511"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "#| echo: false\n",
+        "import requests\n",
+        "from IPython.display import Markdown\n",
+        "\n",
+        "orcid_id = \"0000-0002-0509-2755\"\n",
+        "\n",
+        "url = f\"https://pub.orcid.org/v3.0/{orcid_id}/works\"\n",
+        "headers = {\"Accept\": \"application/json\"}\n",
+        "\n",
+        "response = requests.get(url, headers=headers)\n",
+        "\n",
+        "works = response.json()[\"group\"]\n",
+        "works = sorted(works, key=lambda w: w[\"work-summary\"][0][\"publication-date\"][\"year\"][\"value\"] if w[\"work-summary\"][0][\"publication-date\"] else \"0\", reverse=True)\n",
+        "\n",
+        "\n",
+        "lines = []\n",
+        "for work in works:\n",
+        "    summary = work[\"work-summary\"][0]\n",
+        "    title = summary[\"title\"][\"title\"][\"value\"]\n",
+        "    year = summary[\"publication-date\"][\"year\"][\"value\"] if summary[\"publication-date\"] else \"n.d.\"\n",
+        "    journal = summary[\"journal-title\"][\"value\"] if summary[\"journal-title\"] else \"\"\n",
+        "\n",
+        "    doi = \"\"\n",
+        "    for eid in summary.get(\"external-ids\", {}).get(\"external-id\", []):\n",
+        "        if eid[\"external-id-type\"] == \"doi\":\n",
+        "            doi = eid[\"external-id-value\"]\n",
+        "            break\n",
+        "\n",
+        "    if doi:\n",
+        "        lines.append(f\"**{title}** ({year}). *{journal}*. <https://doi.org/{doi}>\")\n",
+        "    else:\n",
+        "        lines.append(f\"**{title}** ({year}). *{journal}*\")\n",
+        "\n",
+        "Markdown(\"\\n\\n\".join(lines))"
+      ],
+      "id": "952321b9",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\HECha\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
