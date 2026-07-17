@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi! I am Harry. I am a researcher working on Metal Additive Manufacturing, paticularly using in situ synchrotron techniques to understand the fundamental driving physics behind soldification processes.\nI am based at the Research Complex at Harwell and have conducted synchrotron experiments at Diamond Light Source in the UK, the European Synchrotron Radiation Facility in France, and at the High Energy Photon Source in China.\nThis website contains information about my experience, projects I am/was involved in, and publications I have co-authored. I enjoy discussing my research and science generally, so if you are a student looking to get involved in research, a researcher looking to collaborate or understand work I have done, or an industrial engineer looking to apply my research, please feel free to reach out to me via email."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "About",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nAdditive Manufacturing (AM) & other rapid non-equilbrium soldification processes\nAlloy design & microstructural control\nIn situ synchrotron experiments\nCombined in situ, ex situ, & in silico studies\nSystems of science & metascience"
-  },
-  {
-    "objectID": "projects/project-02/index.html",
-    "href": "projects/project-02/index.html",
-    "title": "title",
-    "section": "",
-    "text": "Full description here…"
-  },
-  {
-    "objectID": "projects/project-02/index.html#overview",
-    "href": "projects/project-02/index.html#overview",
-    "title": "title",
-    "section": "",
-    "text": "Full description here…"
-  },
-  {
-    "objectID": "projects/project-02/index.html#updates",
-    "href": "projects/project-02/index.html#updates",
-    "title": "title",
-    "section": "Updates",
-    "text": "Updates\nMonth Year — Update"
-  },
-  {
-    "objectID": "projects/project-01/index.html",
-    "href": "projects/project-01/index.html",
-    "title": "title",
-    "section": "",
-    "text": "Full description here…"
-  },
-  {
-    "objectID": "projects/project-01/index.html#overview",
-    "href": "projects/project-01/index.html#overview",
-    "title": "title",
-    "section": "",
-    "text": "Full description here…"
-  },
-  {
-    "objectID": "projects/project-01/index.html#updates",
-    "href": "projects/project-01/index.html#updates",
-    "title": "title",
-    "section": "Updates",
-    "text": "Updates\nMonth Year — Update"
-  },
-  {
     "objectID": "experience.html#phd-mechanical-engineering",
     "href": "experience.html#phd-mechanical-engineering",
     "title": "Experience",
@@ -67,35 +11,7 @@
     "href": "experience.html#meng-materials-science",
     "title": "Experience",
     "section": "MEng Materials Science",
-    "text": "MEng Materials Science\n2018 — 2022 · University of Oxford\nIntegrated MEng in Materials Science, with a focus on metallurgy. Supervised by David Armstrong and Peter Nellist.\n\nThesis on liquid lithium corrosion for nuclear fusion applications\nModules covering Advanced Alloys, Energy Materials, Nanomaterials amongst others\n\nPlacement\n\n\n\nSummer 2019 · Computational Modelling Intern · Interdisciplinary Centre for Advanced Materials Simulation, Ruhr Universitat Bochum\n\nComputational modelling of interstitial defects in iron for radiation damage studies using atomistic modelling.\n\nComparision of interatomic potentials for iron and their effect on defect formation energies"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Ultrasound-assisted Additive Manufacturing\n\n2022-current - Researcher\nInvestigating the driving mechanisms of applied ultrasound to AM.\n\nRead more →\n\n\n\n\n\n\nMagnetic field assisted Additive Manufacturing\n\n2022-current - Researcher\nInvestigating the driving mechanisms of applied magnetic fields to AM.\n\nRead more →\n\n\n\n\n\n\nStudent Training and Experience in Proposal Skills (STEPS)\n\n2024-2026 - Founder and Coordinator\nA UCL research culture seed fund funded peer development programme.\n\nRead more →"
-  },
-  {
-    "objectID": "projects/project-03/index.html",
-    "href": "projects/project-03/index.html",
-    "title": "title",
-    "section": "",
-    "text": "Full description here…"
-  },
-  {
-    "objectID": "projects/project-03/index.html#overview",
-    "href": "projects/project-03/index.html#overview",
-    "title": "title",
-    "section": "",
-    "text": "Full description here…"
-  },
-  {
-    "objectID": "projects/project-03/index.html#updates",
-    "href": "projects/project-03/index.html#updates",
-    "title": "title",
-    "section": "Updates",
-    "text": "Updates\nMonth Year — Update"
+    "text": "MEng Materials Science\n2018 — 2022 · University of Oxford\nIntegrated MEng in Materials Science, with a focus on metallurgy. Supervised by David Armstrong and Peter Nellist.\n\nThesis on liquid lithium corrosion for nuclear fusion applications\nModules covering Advanced Alloys, Energy Materials, Nanomaterials amongst others\n\nPlacements\n\n\n\nSummer 2019 · Computational Modelling Intern · Interdisciplinary Centre for Advanced Materials Simulation, Ruhr Universitat Bochum\n\nComputational modelling of interstitial defects in iron for radiation damage studies using atomistic modelling.\n\nComparison of interatomic potentials for iron and their effect on defect formation energies"
   },
   {
     "objectID": "publications.html",
@@ -110,5 +26,89 @@
     "title": "Publications",
     "section": "Publications",
     "text": "Publications\n\n\nDirected energy deposition additive manufacturing: Microstructure and composition engineering for high-performing metallic materials (2026). Additive Manufacturing. https://doi.org/10.1016/j.addma.2026.105240\nA second-generation apparatus for in situ synchrotron characterisation of directed energy deposition additive manufacturing with multi-modal monitoring and external forces (2026). Materials & Design. https://doi.org/10.1016/j.matdes.2026.115495\nMechanical and in situ thermal-related behavior upon directed energy deposition additive manufacturing of a high-performance Al alloy (2026). International Journal of Extreme Manufacturing. https://doi.org/10.1088/2631-7990/ae3349\nAngular-dependent interatomic potential for large-scale atomistic simulation of iron: Development and comprehensive comparison with existing interatomic models (2021). Physical Review Materials. https://doi.org/10.1103/physrevmaterials.5.063607"
+  },
+  {
+    "objectID": "projects/project-02/index.html",
+    "href": "projects/project-02/index.html",
+    "title": "Magnetic field assisted Additive Manufacturing",
+    "section": "",
+    "text": "This page is still being worked on, so please check back later for more information on this project."
+  },
+  {
+    "objectID": "projects/project-02/index.html#overview",
+    "href": "projects/project-02/index.html#overview",
+    "title": "Magnetic field assisted Additive Manufacturing",
+    "section": "",
+    "text": "This page is still being worked on, so please check back later for more information on this project."
+  },
+  {
+    "objectID": "projects/project-02/index.html#updates",
+    "href": "projects/project-02/index.html#updates",
+    "title": "Magnetic field assisted Additive Manufacturing",
+    "section": "Updates",
+    "text": "Updates\nMonth Year — Update"
+  },
+  {
+    "objectID": "projects/project-03/index.html",
+    "href": "projects/project-03/index.html",
+    "title": "Student Training and Experience in Proposal Skills (STEPS)",
+    "section": "",
+    "text": "The STEPS program was a UCL research culture seed funded project to provide training and experience in proposal writing and peer review for postgraduate researchers.\nI designed the programme in 2024, and secured funding the UCL research culture seed fund. The programme consisted of a series of workshops covering opportunities for funding during your PhD, and the perspectives of funders and reviewers (with participation from the Institute for Materials, Minerals, and Mining, and the Henry Royce Institute).The programme also consisted of a micro-grant scheme, in which dozens of researchers applied for funding, and reviewed proposals, and 7 projects were funded over two years. The programme was a success and attracted follow-on funding from the department, and I presented an overview of the programme at the UCL research culture event in 2025."
+  },
+  {
+    "objectID": "projects/project-03/index.html#overview",
+    "href": "projects/project-03/index.html#overview",
+    "title": "Student Training and Experience in Proposal Skills (STEPS)",
+    "section": "",
+    "text": "The STEPS program was a UCL research culture seed funded project to provide training and experience in proposal writing and peer review for postgraduate researchers.\nI designed the programme in 2024, and secured funding the UCL research culture seed fund. The programme consisted of a series of workshops covering opportunities for funding during your PhD, and the perspectives of funders and reviewers (with participation from the Institute for Materials, Minerals, and Mining, and the Henry Royce Institute).The programme also consisted of a micro-grant scheme, in which dozens of researchers applied for funding, and reviewed proposals, and 7 projects were funded over two years. The programme was a success and attracted follow-on funding from the department, and I presented an overview of the programme at the UCL research culture event in 2025."
+  },
+  {
+    "objectID": "projects/project-03/index.html#updates",
+    "href": "projects/project-03/index.html#updates",
+    "title": "Student Training and Experience in Proposal Skills (STEPS)",
+    "section": "Updates",
+    "text": "Updates\nMonth Year — Update"
+  },
+  {
+    "objectID": "projects/project-01/index.html",
+    "href": "projects/project-01/index.html",
+    "title": "Ultrasound-assisted Additive Manufacturing",
+    "section": "",
+    "text": "This page is still being worked on, so please check back later for more information on this project."
+  },
+  {
+    "objectID": "projects/project-01/index.html#overview",
+    "href": "projects/project-01/index.html#overview",
+    "title": "Ultrasound-assisted Additive Manufacturing",
+    "section": "",
+    "text": "This page is still being worked on, so please check back later for more information on this project."
+  },
+  {
+    "objectID": "projects/project-01/index.html#updates",
+    "href": "projects/project-01/index.html#updates",
+    "title": "Ultrasound-assisted Additive Manufacturing",
+    "section": "Updates",
+    "text": "Updates\nMonth Year — Update"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Ultrasound-assisted Additive Manufacturing\n\n2022-current - Researcher\nInvestigating the driving mechanisms of applied ultrasound to AM.\n\nRead more →\n\n\n\n\n\n\nMagnetic field assisted Additive Manufacturing\n\n2022-current - Researcher\nInvestigating the driving mechanisms of applied magnetic fields to AM.\n\nRead more →\n\n\n\n\n\n\nStudent Training and Experience in Proposal Skills (STEPS)\n\n2024-2026 - Founder and Coordinator\nA UCL research culture seed fund funded peer development programme.\n\nRead more →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I am Harry. I am a researcher working on Metal Additive Manufacturing, particularly using in situ synchrotron techniques to understand the fundamental driving physics behind solidification processes.\nI am based at the Research Complex at Harwell and have conducted synchrotron experiments at Diamond Light Source in the UK, the European Synchrotron Radiation Facility in France, and at the High Energy Photon Source in China.\nThis website contains information about my experience, projects I am/was involved in, and publications I have co-authored. I enjoy discussing my research and science generally, so if you are a student looking to get involved in research, a researcher looking to collaborate or understand work I have done, or an industrial engineer looking to apply my research, please feel free to reach out to me via email."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nAdditive Manufacturing (AM) & other rapid non-equilibrium solidification processes\nAlloy design & microstructural control\nIn situ synchrotron experiments\nCombined in situ, ex situ, & in silico studies\nSystems of science & metascience"
   }
 ]
