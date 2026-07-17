@@ -1,9 +1,9 @@
 ---
-title: "title"
+title: "Magnetic field assisted Additive Manufacturing"
 ---
 
 ## Overview
-Full description here...
+This page is still being worked on, so please check back later for more information on this project.
 
 ## Updates
 

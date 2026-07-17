@@ -1,9 +1,11 @@
 ---
-title: "title"
+title: "Student Training and Experience in Proposal Skills (STEPS)"
 ---
 
 ## Overview
-Full description here...
+The STEPS program was a UCL research culture seed funded project to provide training and experience in proposal writing and peer review for postgraduate researchers.
+
+I designed the programme in 2024, and secured funding the UCL research culture seed fund. The programme consisted of a series of workshops covering opportunities for funding during your PhD, and the perspectives of funders and reviewers (with participation from the Institute for Materials, Minerals, and Mining, and the Henry Royce Institute).The programme also consisted of a micro-grant scheme, in which dozens of researchers applied for funding, and reviewed proposals, and 7 projects were funded over two years. The programme was a success and attracted follow-on funding from the department, and I presented an overview of the programme at the UCL research culture event in 2025.
 
 ## Updates
 

@@ -50,7 +50,7 @@ Integrated MEng in Materials Science, with a focus on metallurgy. Supervised by 
 - Modules covering Advanced Alloys, Energy Materials, Nanomaterials amongst others
 
 
-**Placement**
+**Placements**
 <div style="margin-left: 3rem;">
 <details>
 <summary>
@@ -59,6 +59,6 @@ Integrated MEng in Materials Science, with a focus on metallurgy. Supervised by 
 
 Computational modelling of interstitial defects in iron for radiation damage studies using atomistic modelling. 
 
-- Comparision of interatomic potentials for iron and their effect on defect formation energies
+- Comparison of interatomic potentials for iron and their effect on defect formation energies
 </details>
 </div>
